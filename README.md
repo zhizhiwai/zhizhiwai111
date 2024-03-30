@@ -8,7 +8,7 @@
 2. 你的cascade_562_1000.xml文件是识别车辆的，不是识别车牌的。
 
 ## 结果展示
-![image](https://github.com/zhizhiwai/zhizhiwai111/assets/75608560/3a5cdfd7-46fe-4440-828f-49ec3f4b6c06)
+![image](https://github.com/zhizhiwai/zhizhiwai111/assets/75608560/3a5cdfd7-46fe-4440-828f-49ec3f4b6c06)<br>
 成功框住了车牌。
 
 ## 未来优化
